@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 # ============================================================
 
 # Folder root
-folder = r"D:\Memoria_Last\Simulaciones_Xschem"
+folder = r"D:\Memoria_Last\Simulaction_Xschem"
 csv_folder = os.path.join(folder, "Simulations_CSV")
 py_folder = os.path.join(folder, "Files_PY")
 os.makedirs(py_folder, exist_ok=True)
