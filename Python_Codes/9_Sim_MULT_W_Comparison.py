@@ -31,7 +31,7 @@ wSize  = 0.05
 print("Sum of weights:", wPCE + wPin + wVout + wVRF + wArea + wSize)
 
 # Working folder
-folder = r"D:\Memoria_Last\Simulaciones_Xschem"
+folder = r"D:\Memoria_Last\Simulation_Xschem"
 py_folder = os.path.join(folder, "Files_PY")
 os.makedirs(py_folder, exist_ok=True)
 
