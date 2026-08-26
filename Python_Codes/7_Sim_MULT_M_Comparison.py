@@ -35,7 +35,7 @@ INCLUDE_FILTERS = ["MULT3","C04-00","R100k","L00-20","W00-60"]
 EXCLUDE_FILTERS = ["E","IMN"]
 
 # Working folder
-folder = r"D:\Memoria_Last\Simulaciones_Xschem"
+folder = r"D:\Memoria_Last\Simulation_Xschem"
 py_folder = os.path.join(folder, "Files_PY")
 os.makedirs(py_folder, exist_ok=True)
 
